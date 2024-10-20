@@ -6,7 +6,7 @@
 * Node.js 20 ou superior;
 * Git
 
-## Tecnlogias ou recursos utilizadas:
+## Tecnlogias ou recursos utilizados:
 * Docker;
 * PHP 8.3;
 * Laravel 11;
@@ -105,7 +105,23 @@ Renderizar o Frontend do sistema (execute fora do container, mas dentro da pasta
 npm run dev
 ```
 
-## Telas do sistema
+## Principais Telas do sistema:
+
+Tela de Login:
+
+![Tela de Login](https://github.com/lucastandy/teste-tecnico-laravel/blob/main/assets/tela_login.png)
+
+Tela Dashboard:
+
+![Tela Dashboard](https://github.com/lucastandy/teste-tecnico-laravel/blob/main/assets/tela_dashboard.png)
+
+Tela Listar Produtos:
+
+![Listar Produtos](https://github.com/lucastandy/teste-tecnico-laravel/blob/main/assets/tela_listar_produtos.png)
+
+Tela Listar Vendas:
+
+![Listar Vendas](https://github.com/lucastandy/teste-tecnico-laravel/blob/main/assets/tela_listar_vendas.png)
 
 
 ## Autor:
