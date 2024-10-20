@@ -1,0 +1,14 @@
+/* Importando o CSS do layout */
+@import 'styles_sbadmin.css';
+
+
+/* Importando o CSS personalizar layout */
+@import 'styles_admin.css';
+
+/* Importando Font Awesome */
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
