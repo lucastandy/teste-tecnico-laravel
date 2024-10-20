@@ -32,7 +32,7 @@
 
 Clonar o repositório
 ```
-git clone ........
+git clone https://github.com/lucastandy/teste-tecnico-laravel.git
 ```
 
 Acessar diretório do projeto
